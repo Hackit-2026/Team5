@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 587bc3b462f23524ea57133e9a1c5fbf
+guid: b8f5aeb9c6de7614db2631011b869bc3
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
@@ -10,6 +10,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 82022
   packageName: Oculus Integration (Deprecated)
-  packageVersion: 
-  assetPath: Assets/Oculus/OculusProjectConfig.asset
-  uploadId: 0
+  packageVersion: 57.0.2-deprecated
+  assetPath: Assets/Oculus/Interaction/Samples/Fonts/Roboto-Medium SDF.asset
+  uploadId: 667590

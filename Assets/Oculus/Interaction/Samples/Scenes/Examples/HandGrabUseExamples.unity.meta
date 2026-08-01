@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 587bc3b462f23524ea57133e9a1c5fbf
-NativeFormatImporter:
+guid: 509f8fa80c708b343a603a4771d35c85
+DefaultImporter:
   externalObjects: {}
-  mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -10,6 +9,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 82022
   packageName: Oculus Integration (Deprecated)
-  packageVersion: 
-  assetPath: Assets/Oculus/OculusProjectConfig.asset
-  uploadId: 0
+  packageVersion: 57.0.2-deprecated
+  assetPath: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabUseExamples.unity
+  uploadId: 667590
