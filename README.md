@@ -1,10 +1,8 @@
 # チーム名
-
-# VeRyHacker
+VeRyHacker
 
 # プロダクト名
-
-# VR手話翻訳
+VR手話翻訳
 
 ## 概要
 MetaQuest3sとUnityのハンドトラッキングを利用して手の形を認識することで、
@@ -74,6 +72,6 @@ cd <repository-name>
 ## メンバー
 
 | 名前 | 担当 |
-|------|------|
-|      |      |
-|      |      |
+|　細木椋太　|　Unity　|
+|　山本唯人　|　Unity　|
+|　金岡駿介　|　Blender　|
