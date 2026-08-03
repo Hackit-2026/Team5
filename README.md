@@ -46,9 +46,15 @@ VRのカメラから読み取った手のデータを文字に変換して手話
 
 ## 使用技術
 
-- Unity6(version : 6000.0.73f1)
-- C#
-- Blender()
+### エンジン・使用言語：
+- Unity（C#）
+### 3Dツール：
+-Blender（モデリング、UV展開、アセット制作、Unityへのインポート最適化）
+### XR基盤・規格：
+-Meta XR All-in-SDK
+-OpenXR Plugin
+
+
 
 ## 今後の展望
 
